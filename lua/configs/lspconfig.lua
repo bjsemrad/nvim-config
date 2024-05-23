@@ -13,6 +13,7 @@ local servers = {
   "jdtls",
   "gopls",
   "nixd",
+  "kotlin_language_server",
 }
 
 -- lsps with default config
